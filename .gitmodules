@@ -1,0 +1,3 @@
+[submodule "ci-cd-final-project"]
+	path = ci-cd-final-project
+	url = git@github.com:eniayo/ci-cd-final-project.git
